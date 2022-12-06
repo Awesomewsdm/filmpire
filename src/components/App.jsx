@@ -3,9 +3,8 @@ import React from 'react';
 function App() {
   return (
     <div>
-      App
+      Filmpire App 
     </div>
   );
 }
-
 export default App;
